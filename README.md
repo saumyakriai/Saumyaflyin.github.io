@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumya Kumari</h1>
 <h3 align="center">A passionate Python programmer with Generative AI</h3>                                    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyaflyin&label=Profile%20views&color=0e75b6&style=flat" alt="saumya" /> </p>
-<p align = "right"> <img src="https://assets.website-files.com/5d2b950d9ea87fc61f0c1f3e/5d55d3f19a649a41ddb5b1fd_os_0021_19.png" , width="400" > </p>
+<p align = "right"> <img src="https://assets.website-files.com/5d2b950d9ea87fc61f0c1f3e/5d55d3f19a649a41ddb5b1fd_os_0021_19.png" , width="400" , height="100" > </p>
                   
 - 🔭 I’m currently working on **Python**
 
