@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saumya Kumari</h1>
 <h3 align="center">A passionate Python programmer with Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyaflyin&label=Profile%20views&color=0e75b6&style=flat" alt="saumyaflyin" /> </p>
-
 - 🔭 I’m currently working on **Python**
 
 - 👯 I’m looking to collaborate on **Finding complex patterns of the data**
